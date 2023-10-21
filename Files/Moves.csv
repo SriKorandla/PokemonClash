@@ -1,0 +1,109 @@
+Move No,Name,Type,Damage,Accuracy,Status,PP,Special
+1,Thunder Wave,Electric,20,100,TRUE,10,YES
+2,Tackle,Normal,30,95,FALSE,20,NO
+3,Pound,Normal,30,95,FALSE,20,NO
+4,Scratch,Normal,30,95,FALSE,20,NO
+5,Quick Attack,Normal,50,90,FALSE,20,NO
+6,Leer,Normal,20,95,TRUE,15,NO
+7,Glare,Electric,50,95,TRUE,20,NO
+8,String Shot,Bug,50,95,TRUE,20,NO
+9,Bubble,Water,20,100,FALSE,15,YES
+10,Vine Whip,Grass,50,90,FALSE,15,YES
+11,Leech Seed,Grass,40,95,TRUE,15,YES
+12,Ember,Fire,50,90,FALSE,15,YES
+13,Sleep Powder,Grass,40,95,TRUE,15,YES
+14,Solar Beam,Grass,120,85,FALSE,5,YES
+15,Poison Powder,Poison,40,95,TRUE,15,NO
+16,Razor Leaf,Grass,60,100,FALSE,15,YES
+17,Mega Drain,Grass,80,90,TRUE,15,YES
+18,Body Slam,Normal,75,90,TRUE,10,NO
+19,Fire Spin,Fire,60,100,TRUE,20,YES
+20,Comet Punch,Fighting,70,100,FALSE,10,NO
+21,Slash,Normal,70,95,FALSE,20,NO
+22,Flamethrower,Fire,90,95,FALSE,10,YES
+23,Fly,Flying,90,90,FALSE,10,NO
+24,Dragon Rage,Dragon,80,100,FALSE,10,YES
+25,Tail Whip,Normal,20,100,TRUE,15,NO
+26,Water Gun,Water,50,95,FALSE,15,YES
+27,Bite,Normal,60,95,FALSE,20,NO
+28,Withdraw,Normal,50,95,TRUE,15,NO
+29,Ice Beam,Ice,100,100,FALSE,10,YES
+30,Surf,Water,90,95,FALSE,10,YES
+31,Hydro Pump,Water,120,85,FALSE,5,YES
+32,Skull Bash,Normal,140,80,FALSE,5,NO
+33,Stun Spore,Grass,50,95,TRUE,15,NO
+34,Harden,Normal,30,95,TRUE,20,NO
+35,Confusion,Psychic,60,100,FALSE,20,YES
+36,Reflect,Psychic,50,95,TRUE,10,NO
+37,Psychic,Psychic,90,90,FALSE,10,YES
+38,Twineedle,Bug,70,95,FALSE,10,NO
+39,Agility,Normal,50,100,TRUE,20,YES
+40,Fury Attack,Normal,60,75,FALSE,20,NO
+41,Gust,Flying,50,100,TRUE,20,NO
+42,Wing Attack,Flying,60,90,FALSE,15,NO
+43,Mirror Move,Normal,100,100,TRUE,10,YES
+44,Hyper Fang,Normal,60,100,FALSE,20,NO
+45,Rage,Normal,60,100,FALSE,15,NO
+46,Super Fang,Normal,80,95,FALSE,10,NO
+47,Cut,Normal,50,95,FALSE,20,NO
+48,Drill Peck,Flying,80,90,FALSE,10,NO
+49,Growl,Normal,30,100,TRUE,15,NO
+50,Wrap,Normal,40,100,TRUE,20,NO
+51,Poison Sting,Poison,60,95,FALSE,15,NO
+52,Acid,Poison,80,95,TRUE,10,YES
+53,Earthquake,Ground,100,95,FALSE,10,NO
+54,Take Down,Normal,90,90,FALSE,10,NO
+55,Thunder Shock,Electric,40,100,FALSE,20,YES
+56,Thunder,Electric,120,70,FALSE,5,YES
+57,Thunderbolt,Electric,90,95,FALSE,10,YES
+58,Slam,Normal,60,100,FALSE,10,NO
+59,Light Screen,Psychic,70,100,TRUE,10,YES
+60,Rollout,Rock,55,100,FALSE,10,NO
+61,Swift,Normal,60,100,FALSE,15,NO
+62,Rock Slide,Rock,70,90,TRUE,10,NO
+63,Double Kick,Fighting,65,90,FALSE,15,NO
+64,Superpower,Fighting,120,90,FALSE,5,YES
+65,Megahorn,Bug,120,90,FALSE,5,NO
+66,Toxic,Poison,60,90,TRUE,15,NO
+67,Mega Kick,Normal,80,100,FALSE,10,NO
+68,Mega Punch,Normal,100,80,FALSE,10,NO
+69,Sing,Normal,50,90,TRUE,10,NO
+70,Submission,Fighting,80,95,FALSE,10,NO
+71,Hyper Beam,Normal,140,80,FALSE,5,YES
+72,Crunch,Normal,80,100,FALSE,10,NO
+73,Sludge,Poison,70,100,FALSE,10,YES
+74,Absorb,Grass,20,100,TRUE,25,YES
+75,Vice Grip,Bug,70,100,FALSE,10,NO
+76,Tri Attack,Normal,100,100,TRUE,5,NO
+77,Pay Day,Dark,80,100,TRUE,10,NO
+78,Fire Blast,Fire,120,85,FALSE,5,YES
+79,Dig,Ground,60,100,FALSE,15,NO
+80,Fury Swipes,Normal,60,95,FALSE,15,NO
+81,Karate Chop,Fighting,50,100,FALSE,20,YES
+82,Hypnosis,Ghost,50,100,TRUE,20,NO
+83,Double Slap,Normal,75,100,FALSE,10,NO
+84,Extremespeed,Normal,100,100,FALSE,5,NO
+85,Swords Dance,Normal,75,100,TRUE,10,NO
+86,Aurora Beam,Ice,50,100,FALSE,15,YES
+87,Barrier,Psychic,50,100,TRUE,15,NO
+88,Amnesia,Psychic,70,90,TRUE,15,YES
+89,Rock Throw,Rock,55,100,FALSE,20,NO
+90,Peck,Flying,45,100,FALSE,20,NO
+91,Sonic Boom,Normal,50,100,FALSE,20,NO
+92,Poison Gas,Poison,65,100,FALSE,15,NO
+93,Explosion,Normal,100,90,FALSE,5,NO
+94,Lick,Ghost,65,100,TRUE,20,NO
+95,Night Shade,Ghost,90,100,FALSE,10,NO
+96,Bind,Normal,35,80,FALSE,15,NO
+97,Horn Attack,Normal,65,100,FALSE,10,NO
+98,Bone Club,Ground,70,100,FALSE,10,NO
+99,Jump Kick,Fighting,70,100,FALSE,10,NO
+100,Mach Punch,Fighting,70,100,FALSE,10,NO
+101,Meditate,Fighting,50,100,TRUE,10,NO
+102,Hi Jump Kick,Fighting,100,80,FALSE,10,NO
+103,Stomp,Fighting,70,90,FALSE,10,NO
+104,Defense Curl,Normal,30,100,TRUE,25,NO
+105,Thunder Punch,Electric,75,100,FALSE,15,NO
+106,Fire Punch,Fire,75,100,FALSE,15,NO
+107,Sky Attack,Flying,140,70,FALSE,5,NO
+108,Rest,Normal,50,100,TRUE,10,NO
