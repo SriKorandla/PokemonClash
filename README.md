@@ -1,7 +1,7 @@
 # Pokemon Clash!
 ## Sri Korandla
 
-## Website Link:
+## Video Link:
 https://drive.google.com/file/d/1Tsv7AJLCpb_UOXX1PwhgsB04AGpX6ctV/view?usp=share_link
 
 This is a Code Sample for my 24W DALI Application. It is built entirely in Java. Pokemon Clash is a Pokemon Batle Simulator that features all original 151 Pokemon. The User plays against an AI team that is either randomly selected, or one of two pregenerated teams (Trainers Red and Blue from the original games). Type effectiveness from the original games have been implemented; for example, a fire-type like Charizard will be weak to a water-type move like water gun. The AI will select moves that are super-effective against the User's pokemon if the AI has those moves available. Other mechanics, like switching and critical hits, have also been implemented.
